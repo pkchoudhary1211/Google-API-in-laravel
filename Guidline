@@ -1,0 +1,5 @@
+for google login you need to install socailite :
+composer require laravel/socialite
+
+for more info
+https://laravel.com/docs/5.8/socialite#introduction
